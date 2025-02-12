@@ -1,0 +1,4 @@
+Flask
+pytest
+chromadb
+sentence-transformers

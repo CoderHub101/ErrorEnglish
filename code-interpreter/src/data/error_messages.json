@@ -1,0 +1,14 @@
+{
+    "error_messages": [
+      {
+        "original": "NameError: name 'variable' is not defined",
+        "friendly": "The variable '{variable}' was used but hasn't been defined yet. Make sure to declare it before using it.",
+        "type": "NameError"
+      },
+      {
+        "original": "SyntaxError: invalid syntax",
+        "friendly": "There's a syntax error in your code. This often means you have a typo or missing character like a parenthesis or colon.",
+        "type": "SyntaxError"
+      }
+    ]
+  }
